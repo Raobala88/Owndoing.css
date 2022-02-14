@@ -1,0 +1,272 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    background-color: darkturquoise;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 20px;
+    font-size: bold;
+}
+
+img {
+    margin-top: 20px;
+    padding: 20px;
+    width: 35%;
+    float: left;
+}
+
+h1 {
+    font-size: x-large;
+    color: brown;
+    text-align: left;
+    margin-top: 50px;
+}
+
+p {
+    color: blue;
+
+}
+
+nav {
+    list-style-type: none;
+    float: left;
+    text-decoration: none;
+}
+
+button {
+    background-color: brown;
+    color: aliceblue;
+    margin-top: 10%;
+    padding: 10px;
+    cursor: pointer;
+}
+
+h2 {
+    background-color: lightgrey;
+    text-align: center;
+    color: black;
+    width: 100%;
+    padding: 10px;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.clearfix {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.container {
+
+    box-sizing: border-box;
+    display: inline;
+    background-color: blue;
+    width: 100%;
+}
+
+h3 {
+
+    font-weight: bolder;
+    width: 100%;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.one {
+
+    border: 1px solid black;
+    background-color: wheat;
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+    overflow: hidden;
+    width: 20%;
+    float: left;
+    justify-content: left;
+}
+
+.two {
+
+    border: 1px solid black;
+    background-color: lightblue;
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+    overflow: hidden;
+    width: 20%;
+    float: left;
+    justify-content: left;
+
+}
+
+.three {
+
+    border: 1px solid black;
+    background-color: crimson;
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 30px;
+    overflow: hidden;
+    width: 20%;
+    float: left;
+    justify-content: left;
+
+}
+
+.fourth {
+
+    border: 1px solid black;
+    background-color: rgb(221, 230, 221);
+    padding: 10px;
+    margin-left: 20px;
+    margin-top: 30px;
+    overflow: hidden;
+    width: 20%;
+    float: left;
+    justify-content: left;
+
+}
+
+.clearfix {
+    content: "";
+    clear: both;
+    display: table;
+}
+.qualification {
+    float: right;
+}
+.period{
+    
+    
+
+}
+
+h4 {
+    background-color: white;
+    font-size: xx-large;
+    margin-top: 20%;
+    width: 20%;
+    color: black;
+    margin-bottom: 0%;
+}
+
+.main {
+    background-color: lightgrey;
+    margin-top: 5%;
+    width: 30%;
+    color: black;
+    padding: 5px;
+    margin: 10px;
+    margin-bottom: 20%;
+
+
+}
+
+.middle {
+    background-color: lightgrey;
+    margin-top: 5%;
+    width: 30%;
+    color: black;
+    padding: 5px;
+    margin: 10px;
+}
+
+.bottom {
+    background-color: lightgrey;
+    margin-top: 5%;
+    width: 30%;
+    color: black;
+    padding: 5px;
+    margin: 10px;
+}
+
+h5 {
+    background-color: white;
+    font-size: xx-large;
+    margin-top: 5%;
+    width: 20%;
+    color: black;
+}
+
+.main {
+    background-color: lightgrey;
+    margin-top: 5%;
+    width: 30%;
+    color: black;
+    padding: 5px;
+    margin: 10px;
+
+}
+
+.middle {
+    background-color: lightgrey;
+    margin-top: 5%;
+    width: 30%;
+    color: black;
+    padding: 5px;
+    margin: 10px;
+}
+
+.bottom {
+    background-color: lightgrey;
+    margin-top: 5%;
+    width: 30%;
+    color: black;
+    padding: 5px;
+    margin: 10px;
+}
+
+.containerthree {
+    background-color: rgb(186, 186, 197);
+    color: black;
+    width: 80%;
+    padding: 5px;
+    text-align: center;
+    margin-right: 10px;
+    margin-left: 10%;
+}
+h6 {
+    background-color:rgb(186, 186, 197);
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    text-align: center;
+    
+}
+img {
+    position: relative;
+    width: 33%;
+}
+.footer {
+    background-color: black;
+    padding: 60px;
+    text-align: center;
+    margin-top: 40%;
+
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  font-size: x-large;
+}
+.fa-twitter {
+    background: blue;
+    color: aquamarine;
+    font-size: x-large;
+
+
+}
+.fa-google {
+    background:red ;
+    font-size: x-large;
+
+}
+.fa-youtube {
+    background-color: black;
+    color: white;
+    font-size: x-large;
+}
